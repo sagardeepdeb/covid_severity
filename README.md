@@ -2,3 +2,7 @@ This github repository contains the code and the dataset for the paper entitled 
 
 
 The Dataset is collected from Kaggle and the link for the same is https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database 
+
+
+
+The google drive link for the same is https://drive.google.com/drive/folders/1Qyf3lFTwQCU3LlultScqLV1xzyecBhmo?usp=sharing
